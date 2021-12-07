@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:wght@400;700&family=Lora&display=swap');
+
+body {
+  background-color: #A3C6C9;
+  margin: 0 15%;
+  font-family: 'Alegreya', serif;
+  color: #303030;
+}
+
+h1 {
+  font-weight: normal;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 3.5em;
+  color: #26444A;
+  font-family: 'Lora', serif;
+}
+
+h2 { 
+  color: #3D7E85;
+  font-family: 'Lora', serif;
+}
+
+h3 {
+  color: #3C474A;
+  font-family: 'Lora', serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+footer {
+  font-size: 0.8em;
+  text-align: center;
+}
