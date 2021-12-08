@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:wght@400;700&family=Lora&display=swap');
+
+body {
+  margin: 0 15%;
+  font-family: 'Alegreya', serif;
+  color: #1C1B17;
+  background: #E0D9B7
+  url(images/corgi-background.png)
+  no-repeat
+  center 100px
+  fixed;
+}
+
+nav {
+  text-align: center;
+}
+
+nav li {
+  display: inline;
+  margin-right: 2em;
+}
+
+h1 {
+  font-weight: normal;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 3.5em;
+  color: #1C1B17;
+  font-family: 'Lora', serif;
+}
+
+h2 { 
+  color: #21868A;
+  font-family: 'Lora', serif;
+}
+
+h3 {
+  color: #1A6B6E;
+  font-family: 'Lora', serif;
+.gallery {
+  display: block;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+footer {
+  font-size: 0.8em;
+  text-align: center;
+}
