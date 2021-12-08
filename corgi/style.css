@@ -37,7 +37,9 @@ h2 {
 h3 {
   color: #1A6B6E;
   font-family: 'Lora', serif;
-.gallery {
+}
+
+gallery {
   display: block;
 }
 
